@@ -6,5 +6,5 @@
 <p align="center">I'm an aspiring programmer / software dev, Linux & neovim enthusiast, NixOS addict, and technical Minecrafter.</p>
 <br />
 <p align="center">
-  See <a href="https://bvngeecord.com">bvngeecord.com</a> for more.
+  See <a href="https://bvngee.com">bvngee.com</a> for more.
 </p>
