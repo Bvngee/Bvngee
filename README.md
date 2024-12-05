@@ -2,7 +2,7 @@
 
 
 <a href="#">
-  <img align="right" width="35%" height="220px" src="https://github-readme-stats.bvngee.com/top-langs?username=Bvngee&theme=dark&langs_count=10&layout=compact&hide_border=true&bg_color=0D1117" alt="Most used languages">
+  <img align="right" width="40%" height="220px" src="https://github-readme-stats.bvngee.com/top-langs?username=Bvngee&theme=dark&langs_count=10&layout=compact&hide_border=true&bg_color=0D1117" alt="Most used languages">
 </a>
 
 <br />
